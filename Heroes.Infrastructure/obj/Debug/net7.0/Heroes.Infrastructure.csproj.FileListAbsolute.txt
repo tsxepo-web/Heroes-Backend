@@ -1,0 +1,12 @@
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/bin/Debug/net7.0/Heroes.Infrastructure.deps.json
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/bin/Debug/net7.0/Heroes.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/bin/Debug/net7.0/Heroes.Infrastructure.pdb
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.csproj.AssemblyReference.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.AssemblyInfoInputs.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.AssemblyInfo.cs
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.csproj.CoreCompileInputs.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/refint/Heroes.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/Heroes.Infrastructure.pdb
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Infrastructure/obj/Debug/net7.0/ref/Heroes.Infrastructure.dll

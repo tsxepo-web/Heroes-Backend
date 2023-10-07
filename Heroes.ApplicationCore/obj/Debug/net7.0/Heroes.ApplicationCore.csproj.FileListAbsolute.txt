@@ -1,0 +1,12 @@
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/bin/Debug/net7.0/Heroes.ApplicationCore.deps.json
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/bin/Debug/net7.0/Heroes.ApplicationCore.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/bin/Debug/net7.0/Heroes.ApplicationCore.pdb
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.csproj.AssemblyReference.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.AssemblyInfoInputs.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.AssemblyInfo.cs
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.csproj.CoreCompileInputs.cache
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/refint/Heroes.ApplicationCore.dll
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/Heroes.ApplicationCore.pdb
+/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/obj/Debug/net7.0/ref/Heroes.ApplicationCore.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Heroes.Api.props" />
+</Project>
