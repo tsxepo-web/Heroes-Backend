@@ -55,8 +55,3 @@ jobs:
           slot-name: "Production"
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E828A62F40949E193A11C968BC3E079 }}
           package: .
-
-        env:
-          MONGO_CONNECTION_STRING: ${{ secrets.MONGO_CONNECTION_STRING }}
-          MONGO_DATABASE_NAME: ${{ secrets.MONGO_DATABASE_NAME }}
-          MONGO_COLLECTION_NAME: ${{ secrets.MONGO_COLLECTION_NAME }}
