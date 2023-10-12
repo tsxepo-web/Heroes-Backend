@@ -14,9 +14,9 @@ var mongoConnectionString = Environment.GetEnvironmentVariable("MONGO_CONNECTION
 var mongoDatabaseName = Environment.GetEnvironmentVariable("MONGO_DATABASE_NAME");
 var mongoCollectionName = Environment.GetEnvironmentVariable("MONGO_COLLECTION_NAME");
 
-var mongoClient = new MongoClient(mongoConnectionString);
-var mongoDatabase = mongoClient.GetDatabase(mongoDatabaseName);
-var mongoCollection = mongoDatabase.GetCollection<Battle>(mongoCollectionName);
+var mongoClient = new MongoClient("mongodb://tsxepo:UrppOt8Gwj5AWfZ9d3skk3bRlUkuLCbgLA2PZxzGgrK6PVnJZV0rLQnIdWV0R3upCNuacc7cx9aoACDbSTQzqQ==@tsxepo.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@tsxepo@");
+var mongoDatabase = mongoClient.GetDatabase("Heroes");
+var mongoCollection = mongoDatabase.GetCollection<Battle>("Battle");
 builder.Services.AddSingleton(mongoCollection);
 
 builder.Services.AddScoped<IBattleRepository, BattleRepository>();
