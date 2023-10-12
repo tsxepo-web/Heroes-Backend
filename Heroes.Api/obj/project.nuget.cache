@@ -1,16 +1,35 @@
 {
   "version": 2,
-  "dgSpecHash": "0YmH+F9VKtb2nfLygxXSkpiP7GUb77HQjxmpskf1tJR+kaxcKqvuY/3C99NZVKFapJ1wxYGy9sIZfmqRx4ntIw==",
+  "dgSpecHash": "SKOb/ai+TmV68yhCI28jEE3juwMrZ2YvzkwkU1iUrRskY+lRV4UMaaVIuWD1EwJNJVE+mD6xAzH6OQe6dyznqA==",
   "success": true,
   "projectFilePath": "/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Api/Heroes.Api.csproj",
   "expectedPackageFiles": [
+    "/home/tsxepo/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/dotenv.net/3.1.2/dotenv.net.3.1.2.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/mongodb.bson/2.22.0/mongodb.bson.2.22.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/mongodb.driver/2.22.0/mongodb.driver.2.22.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/mongodb.driver.core/2.22.0/mongodb.driver.core.2.22.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/mongodb.libmongocrypt/1.8.0/mongodb.libmongocrypt.1.8.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/home/tsxepo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/home/tsxepo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/tsxepo/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }

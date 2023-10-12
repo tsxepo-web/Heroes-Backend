@@ -1,19 +1,36 @@
+using MongoDB.Driver;
+using Heroes.Infrastructure.Models;
+using Heroes.Infrastructure;
+using dotenv.net;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+DotEnv.Load();
+var mongoConnectionString = Environment.GetEnvironmentVariable("mongoConnectionString");
+var mongoDatabaseName = Environment.GetEnvironmentVariable("mongoDatabaseName");
+var mongoCollectionName = Environment.GetEnvironmentVariable("mongoCollectionName");
+
+var mongoClient = new MongoClient(mongoConnectionString);
+var mongoDatabase = mongoClient.GetDatabase(mongoDatabaseName);
+var mongoCollection = mongoDatabase.GetCollection<Battle>(mongoCollectionName);
+builder.Services.AddSingleton(mongoCollection);
+
+builder.Services.AddScoped<IBattleRepository, BattleRepository>();
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+        options.RoutePrefix = "";
+    });
 }
 
 app.UseHttpsRedirection();

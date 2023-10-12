@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q2ode0I9cvoFCYNwXCOzwMQFhEkY2XjcWUVwbYxF7LQa/rDo5NlVHJg6DQN9+2J9mrsCxw/npP5CGCE3Jj71xQ==",
+  "dgSpecHash": "Ch1O6DV+9vUC2KgyeT5p1zkOji2CaahikmnWSFOBqlOweU0UD8o8vAi9p80LT4uODGhJD4iZyEw3G0gK1GlfyQ==",
   "success": true,
   "projectFilePath": "/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.ApplicationCore/Heroes.ApplicationCore.csproj",
   "expectedPackageFiles": [],
