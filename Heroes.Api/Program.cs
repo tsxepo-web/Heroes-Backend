@@ -10,9 +10,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 DotEnv.Load();
-var mongoConnectionString = Environment.GetEnvironmentVariable("MONGO_CONNECTION_STRING");
-var mongoDatabaseName = Environment.GetEnvironmentVariable("MONGO_DATABASE_NAME");
-var mongoCollectionName = Environment.GetEnvironmentVariable("MONGO_COLLECTION_NAME");
+var mongoConnectionString = builder.Configuration.GetConnectionString("MONGO_CONNECTION_STRING");
+var mongoDatabaseName = builder.Configuration["My:Mongo:Database:Name"];
+var mongoCollectionName = builder.Configuration["Mongo:Database:Collection:Name"];
 
 var mongoClient = new MongoClient(mongoConnectionString);
 var mongoDatabase = mongoClient.GetDatabase(mongoDatabaseName);
