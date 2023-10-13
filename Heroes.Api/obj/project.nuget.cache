@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SKOb/ai+TmV68yhCI28jEE3juwMrZ2YvzkwkU1iUrRskY+lRV4UMaaVIuWD1EwJNJVE+mD6xAzH6OQe6dyznqA==",
+  "dgSpecHash": "fWxzFB4h68g6nanZIPs6WNbaqFhojQY3W66/GhDlDYSElxqDY+Yj7Nu8J19DK2FrwQ/g9RaodF7K2U2PwMnNbQ==",
   "success": true,
   "projectFilePath": "/home/tsxepo/repos/backend-apps/Heroes-Backend/Heroes.Api/Heroes.Api.csproj",
   "expectedPackageFiles": [
     "/home/tsxepo/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
-    "/home/tsxepo/.nuget/packages/dotenv.net/3.1.2/dotenv.net.3.1.2.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/tsxepo/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

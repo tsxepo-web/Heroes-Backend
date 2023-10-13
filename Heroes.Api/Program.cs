@@ -1,7 +1,6 @@
 using MongoDB.Driver;
 using Heroes.Infrastructure.Models;
 using Heroes.Infrastructure;
-using dotenv.net;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +8,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-DotEnv.Load();
 var mongoConnectionString = builder.Configuration["Heroes:ConnectionString"];
 var mongoDatabaseName = builder.Configuration["Heroes:DatabaseName"];
 var mongoCollectionName = builder.Configuration["Heroes:CollectionName"];
