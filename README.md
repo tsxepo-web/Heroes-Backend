@@ -6,7 +6,7 @@
 
 - The frontend is a game, where you choose a villain and a hero to fight in your choosen city.
 - The result will be calculated based on the choosen player's intelligence, strength, durabillity, speed, power, combat, the the chossen city's temperature.
-- The battle and the score will then be saved in the database, and also can be viewed in the Battle-History page(see [Battle-History](https://gentle-desert-01ef55410.3.azurestaticapps.net/battle-history))
+- The battle and the score will then be saved in the database, and also can be viewed in the Battle-History page(see Live Url for more).
 
 ## Author
 
