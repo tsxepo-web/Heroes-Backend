@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to TourOfHeroesBackendApi 👋</h1>
+<h1 align="center">Welcome to Heroes Backend 👋</h1>
 
 ## Design
 
