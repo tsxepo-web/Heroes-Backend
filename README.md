@@ -1,16 +1,14 @@
 <h1 align="center">Welcome to TourOfHeroesBackendApi 👋</h1>
-<p>
-</p>
 
-## UML Design
+## Design
+
+![](https://github.com/tsxepo-web/Heroes-Backend/blob/main/design.png)
 
 ## Author
 
 👤 **tsxepo**
 
-- Github: [@tsxepo-web](https://github.com/tsxepo-web)
-- Backend Url: [HeroesApi](https://tourofheroesbackendtjabane.azurewebsites.net/api/heroes)
-- Frontend Url: [TourOfHeroes](https://salmon-tree-09b222d00.2.azurestaticapps.net)
+- Live Url: [TourOfHeroes](https://salmon-tree-09b222d00.2.azurestaticapps.net)
 
 ## Show your support
 
